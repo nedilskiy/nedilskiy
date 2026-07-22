@@ -37,7 +37,11 @@
       <br>C#
     </td>
     <td align="center" width="96">
-      <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" />
+      <img width="48" height="48" src="https://catalogue.packt.com/tool/106.svg" alt="EF" />
+      <br>EF
+    </td>
+    <td align="center" width="96">
+      <img width="48" height="48" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nest-js-icon.png" alt="NestJS" />
       <br>NestJS
     </td>
     <td align="center" width="96">
@@ -55,8 +59,8 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
-      <br>TypeScript
+      <img width="48" height="48" src="https://raw.githubusercontent.com/web-infra-dev/modern.js/master/assets/modernjs-banner.png" alt="Modern.js" />
+      <br>Modern.js
     </td>
     <td align="center" width="96">
       <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" />
@@ -77,6 +81,10 @@
     <td align="center" width="96">
       <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" />
       <br>Java
+    </td>
+    <td align="center" width="96">
+      <img width="48" height="48" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/fastapi-icon-72blnc5ihz9c30ltfruvm.png/fastapi-icon-sv7hsd0o3donlq26es2lr.png?_a=DATAiZAAZAA0" alt="FastAPI" />
+      <br>FastAPI
     </td>
   </tr>
 </table>
